@@ -1,0 +1,13 @@
+.my-app {
+    color: teal;
+}
+
+.container {
+    color: red;
+    background-image: url(assets/img/parrots.jpg);
+    background-size: contain;
+
+    .inner {
+        color: green;
+    }
+}
